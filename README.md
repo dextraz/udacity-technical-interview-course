@@ -1,6 +1,6 @@
 # Udacity Technical Interview Course - Notes and Solutions to code challenges
 
-Copy from https://www.udacity.com/course/technical-interview--ud513
+@ https://www.udacity.com/course/technical-interview--ud513
 
 This course was designed to give you what you need to ace a technical interview. Included are:
 
